@@ -1,0 +1,4 @@
+*.pickle
+*.swp
+.token
+__pycache__
